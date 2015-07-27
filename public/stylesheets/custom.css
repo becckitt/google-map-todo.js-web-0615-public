@@ -20,8 +20,9 @@
   text-align: center;
 }
 
-#map_canvas {
-  height: 400px;
+#map-canvas {
+  width: 700px;
+  height: 600px;
   background-color: #EEE;
   border-radius: 5px;
 }
